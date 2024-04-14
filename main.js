@@ -140,6 +140,7 @@ for (let i = 0; i < pAequorArray.length - 1; i++) {
 }
 
 console.log(`The pair with the highest DNA match is between specimen #${bestMatchPair[0].specimenNum} and specimen #${bestMatchPair[1].specimenNum}, with ${highestMatch}% DNA match.`);
+// Max percentage obtained was 66.67%, pretty interesting. The most repeated percentage comparison is 60%
 
 
 
